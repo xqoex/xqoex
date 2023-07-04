@@ -1,8 +1,6 @@
 - Hey, I’m @xqoex
 - I’m interested in sleep
-- 
-- what
-- 
+- huh, bye!
 
 <!---
 xqoex/xqoex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
